@@ -1,0 +1,23 @@
+main {
+    background-color: #202020;
+    color: white;
+    font-family: system-ui;
+    padding: 1rem;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+section p {
+    width: 500px;
+}
+
+section img {
+    width: 200px;
+    height: auto;
+}
